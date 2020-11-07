@@ -6,5 +6,6 @@ A Webserver (like nginx or apache) is required.
 The Webserver must have support for the PHP scripting language.
 
 ### How to use
-Just drag the file into your webserver directory and access it.
+Just drag the file into your webserver directory and access it
+via a Webbrowser or any type of http get request.
 
